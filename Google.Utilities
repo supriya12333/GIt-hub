@@ -1,0 +1,6 @@
+Feature: My Feature
+Scenario:
+Given I assign "20" to variable "num1" 
+And I assign "30" to variable "num2" 
+
+
